@@ -1,0 +1,8 @@
+fastapi
+motor
+pydantic
+pymongo==3.12.0
+uvicorn
+lightgbm
+dnspython
+dotenv
